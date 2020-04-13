@@ -40,7 +40,8 @@
     "graphql-relay": "^0.6.0",
     "lodash": "^4.17.15",
     "ramda": "^0.27.0",
-    "transliteration": "^2.1.8"
+    "transliteration": "^2.1.8",
+    "uslug": "^1.0.4"
   },
   "devDependencies": {
     "@reactioncommerce/eslint-config": "^2.1.1",
